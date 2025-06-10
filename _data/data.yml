@@ -101,7 +101,7 @@ experiences:
       As a STEM Ambassador and Code Club/Coder Dojo volunteer, I assisted with setting up equipment labs, providing technical support, and helping young students in a classroom environment.  This also involved general troubleshooting and user support. 
 
 certifications:
-  title:
+  title: Certifications
   list:
   - name:
     start:
@@ -148,7 +148,7 @@ projects:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title:
+  title: OSS Contributions
   intro: >
     
   contributions:
@@ -165,11 +165,11 @@ oss:
     tagline:
 
 publications:
-  title:
+  title: Publications
   intro: |
 
   papers:
-  - title:
+  - title: 
     link: "#"
     authors:
     conference:
