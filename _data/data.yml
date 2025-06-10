@@ -17,7 +17,7 @@ sidebar:
   phone: +44 07565 692109
   timezone: UK/GMT # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: # Include the full website URL, including "http://" or "https://".
   linkedin: cj-donnelly
   xing: 
   github: friedpuppy
@@ -43,15 +43,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Retro games
       link:
 
 
-    - item: Snowboarding
+    - item: Gunpla Robot Model Kits
       link:
 
 
-    - item: Cooking
+    - item: History
       link:
 
 
@@ -80,7 +80,7 @@ education:
   - degree: GCSEs
     university:
     time:
-    details: |
+    details:
       - English: 6
       - History: 4
       - Mathematics: 4
@@ -101,45 +101,26 @@ experiences:
       As a STEM Ambassador and Code Club/Coder Dojo volunteer, I assisted with setting up equipment labs, providing technical support, and helping young students in a classroom environment.  This also involved general troubleshooting and user support. 
 
 certifications:
-  title: Certifications
+  title:
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name:
+    start:
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization:
+    credentialid:
+    credentialurl:
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+
+  - name:
+    start:
+    end:
+    organization:
+    credentialid:
+    credentialurl:
+    credentialname: 
+    details: |
+
 
 projects:
   title: Projects
@@ -167,61 +148,56 @@ projects:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
+  title:
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   contributions:
-  - title: Tempo
+  - title:
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline:
 
-  - title: Atom
+  - title:
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline:
 
-  - title: Delta
+  - title:
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline:
 
 publications:
-  title: Publications
+  title:
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+
   papers:
-  - title: The Art of Computer Programming
+  - title:
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors:
+    conference:
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title:
+    link:
+    authors:
+    conference:
 
-  - title: A syntax directed compiler for Algol 60
+  - title:
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors:
+    conference:
 
 recommendations:
   title: Recommendations
   list:
-  - person: # Yareli Perez
-    email: # perezyareli@example.com
-    phone: # 012 345 6789
-    role: # General Director at example.com
+  - person:
+    email:
+    phone:
+    role:
     recommendation: |
-      # Alan Doe is a super employee!
-  - person: # Lara Henderson
-    email: # larah@example.com
-    phone: # 012 345 6789
-    role: # General Director at example.com
-    recommendation: |
-      # I would like to work with Alan Doe again!
 
-     # He is a great employee!
+  - person:
+    email:
+    phone:
+    role:
+    recommendation: |
 
 skills:
   title: Skills &amp; Proficiency
