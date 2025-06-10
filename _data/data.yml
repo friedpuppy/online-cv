@@ -131,9 +131,9 @@ projects:
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: A Pier to the past
+    link: "https://friedpuppy.itch.io/a-pier-to-the-past"
+    tagline: "A Pier to the Past is an exploration game about Brighton, written in Python with simple controls. It features bitesize chunks of Brighton history, presented as three stories. The player will learn lesser-known historic facts that even long-term residents have little knowledge of."
 
   - title: Tempo
     link: "#"
