@@ -58,78 +58,47 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Final-year BSc Computer Games Design and Development student at the University of Brighton.  
+    Passionate about technology. Proven ability in explaining technology to non-technical users. Interested in working in computer support. 
+    Available full time from July 2025. 
+    
 education:
   title: Education
   info:
-  - degree: BSc Games Design & Development
+  - degree: BSc Computer Games Design and Development (Pending)
     university: University of Brighton
     time: 2022 - 2025
+    details:
+  - degree: UAL Level 3 Diploma Computer Games Design - Merit
+    university:
+    time:
+    details:
+  - degree: OCR Level 2 Cambridge Technical Diploma in IT - Merit
+    university:
+    time:
+    details:
+  - degree: GCSEs
+    university:
+    time:
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - English: 6
+      - History: 4
+      - Mathematics: 4
+      - Biology: 4
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Volunteer
+    time: April 2024 – present
+    company: Haywards Heath British Heart Foundation
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      As part of my volunteering work for British Heart Foundation I’m responsible for sorting, catorgorising and pricing donated media (Blu-ray, DVDs and CDs). 
+  - role: Volunteer / Technical Support
+    time: 2018 - 2021
+    company: Coder Dojo
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      As a STEM Ambassador and Code Club/Coder Dojo volunteer, I assisted with setting up equipment labs, providing technical support, and helping young students in a classroom environment.  This also involved general troubleshooting and user support. 
 
 certifications:
   title: Certifications
@@ -239,42 +208,42 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: # Yareli Perez
+    email: # perezyareli@example.com
+    phone: # 012 345 6789
+    role: # General Director at example.com
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      # Alan Doe is a super employee!
+  - person: # Lara Henderson
+    email: # larah@example.com
+    phone: # 012 345 6789
+    role: # General Director at example.com
     recommendation: |
-      I would like to work with Alan Doe again!
+      # I would like to work with Alan Doe again!
 
-      He is a great employee!
+     # He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: C++ & C#
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Python & Javascript
     level: 98%
 
-  - name: Angular
+  - name: Unreal Engine & Unity
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Blender, Cinema4D, Autodesk Maya
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Web App Development & Networking
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: PC Building & Component Specification
+    level: 100%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
