@@ -58,10 +58,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Hi, I'm Callum. I'm a recent Computer Games Design graduate based in the UK, passionate about creating immersive and innovative gaming experiences. I specialise in game development using Unity & Unreal Engine with a strong foundation in C#, 3D modelling and level design. I also enjoy sharing my work through worklogs and devlogs on youtube. I'm currently looking for opportunities in game design, game development, or QA.
-    Final-year BSc Computer Games Design and Development student at the University of Brighton.  
-    Passionate about technology. Proven ability in explaining technology to non-technical users. Interested in working in computer support. 
-    Available full time from July 2025. 
+    Hi, I'm Callum. I'm a recent Computer Games Design graduate based in the UK, passionate about creating immersive and innovative gaming experiences. I specialise in game development using Unity & Unreal Engine with a 
+    strong foundation in C#, 3D modelling and level design. I also enjoy sharing my work through worklogs and devlogs on youtube. I'm currently looking for opportunities in game design, game development, or QA.
+    Available full time from July 2025.
+    
     
 education:
   title: Education
@@ -78,7 +78,7 @@ education:
     university:
     time:
     details:
-  - degree: GCSEs
+  - degree: English, Maths, History, Biology GCSE
     university:
     time:
     details:
@@ -91,7 +91,7 @@ experiences:
   title: Experiences
   info:
   - role: Volunteer
-    time: April 2024 – present
+    time: April 2024 – 2025
     company: Haywards Heath British Heart Foundation
     details: |
       As part of my volunteering work for British Heart Foundation I was responsible for sorting, categorising and pricing donated media (Blu-ray, DVDs and CDs). 
@@ -126,7 +126,7 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    These are projects that I've worked on that I am incredibly proud of, showcasing my skills in 2D & 3D
   assignments:
   - title: A Pier to the past
     link: "https://friedpuppy.itch.io/a-pier-to-the-past"
