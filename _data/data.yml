@@ -93,7 +93,7 @@ experiences:
     time: April 2024 – present
     company: Haywards Heath British Heart Foundation
     details: |
-      As part of my volunteering work for British Heart Foundation I’m responsible for sorting, catorgorising and pricing donated media (Blu-ray, DVDs and CDs). 
+      As part of my volunteering work for British Heart Foundation I was responsible for sorting, categorising and pricing donated media (Blu-ray, DVDs and CDs). 
   - role: Volunteer / Technical Support
     time: 2018 - 2021
     company: Coder Dojo
@@ -127,25 +127,9 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
   - title: A Pier to the past
     link: "https://friedpuppy.itch.io/a-pier-to-the-past"
     tagline: "A Pier to the Past is an exploration game about Brighton, written in Python with simple controls. It features bitesize chunks of Brighton history, presented as three stories. The player will learn lesser-known historic facts that even long-term residents have little knowledge of."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
