@@ -17,7 +17,7 @@ sidebar:
   phone: +44 07565 692109
   timezone: UK/GMT # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: # Include the full website URL, including "http://" or "https://".
+  website:  # Include the full website URL, including "http://" or "https://".
   linkedin: cj-donnelly
   xing: 
   github: friedpuppy
@@ -188,19 +188,19 @@ skills:
 
   toolset:
   - name: C++ & C#
-    level: 98%
+    level: 50%
 
   - name: Python & Javascript
-    level: 98%
+    level: 80%
 
   - name: Unreal Engine & Unity
-    level: 98%
+    level: 85%
 
   - name: Blender, Cinema4D, Autodesk Maya
     level: 95%
 
   - name: Web App Development & Networking
-    level: 85%
+    level: 60%
 
   - name: PC Building & Component Specification
     level: 100%
