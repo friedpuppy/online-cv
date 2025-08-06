@@ -117,7 +117,7 @@ certifications:
     credentialurl:
     credentialname: 
     details: |
-      Practical systems management, Microsoft Windows Server 2016 & 2022. Active Directory Users & Computers (ADUC), Kerberos, Installation & Basic Configuration, Group Policy Management (GPO), DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
+      Practical systems management, Microsoft Windows Server 2016. Active Directory Users & Computers (ADUC), Kerberos, Installation & Basic Configuration, Group Policy Management (GPO), DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
 
 #  - name:
 #    start:
