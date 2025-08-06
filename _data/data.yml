@@ -92,8 +92,8 @@ experiences:
   info:
   - role: Digital Teaching Assistant
     time: March 2025 - Now
-    company: Code Camp
-    details: St. Wilfrid's Burgess Hill |
+    company: Code Camp, St. Wilfrid's School Burgess Hill
+    details: |
       Managed STEM workshops for children, troubleshooting hardware/software issues. Primary duty as technical assistant and also worked as class lead on occasions. DBS qualified and safeguarding trained.
   - role: Volunteer
     time: April 2024 – 2025
@@ -109,7 +109,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name:  Windows Management and Security
+  - name:  Windows Server Management and Security
     start:
     end:
     organization: University of Colerado/Coursera
@@ -119,14 +119,14 @@ certifications:
     details: |
       Practical Windows system management, Active Directory users & computers, Kerberos, Installation & Basic Configuration, Group Policy Management, DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
 
-  - name:
-    start:
-    end:
-    organization:
-    credentialid:
-    credentialurl:
-    credentialname: 
-    details: |
+#  - name:
+#    start:
+#    end:
+#    organization:
+#    credentialid:
+#    credentialurl:
+#    credentialname: 
+#    details: |
 
 
 projects:
@@ -138,22 +138,22 @@ projects:
     link: "https://friedpuppy.itch.io/a-pier-to-the-past"
     tagline: "A Pier to the Past is an exploration game about Brighton, written in Python with simple controls. It features bitesize chunks of Brighton history, presented as three stories. The player will learn lesser-known historic facts that even long-term residents have little knowledge of. Project constituted my final thesis for my BSc which I achieved an A grade."
 
-oss:
-  title: OSS Contributions
-  intro: >
-    
-  contributions:
-  - title:
-    link: "#"
-    tagline:
-
-  - title:
-    link: "#"
-    tagline:
-
-  - title:
-    link: "#"
-    tagline:
+#oss:
+#  title: OSS Contributions
+#  intro: >
+ #   
+#  contributions:
+#  - title:
+#    link: "#"
+#    tagline:
+#
+#  - title:
+#    link: "#"
+#    tagline:
+#
+#  - title:
+#    link: "#"
+#    tagline:
 
 #publications:
 #  title: Publications
@@ -175,20 +175,20 @@ oss:
 #    authors:
 #    conference:
 
-recommendations:
-  title: Recommendations
-  list:
-  - person:
-    email:
-    phone:
-    role:
-    recommendation: |
-
-  - person:
-    email:
-    phone:
-    role:
-    recommendation: |
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person:
+#    email:
+#    phone:
+#    role:
+#    recommendation: |
+#
+#  - person:
+#    email:
+#    phone:
+#    role:
+ #   recommendation: |
 
 skills:
   title: Skills &amp; Proficiency
