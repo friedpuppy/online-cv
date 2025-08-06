@@ -117,7 +117,7 @@ certifications:
     credentialurl:
     credentialname: 
     details: |
-      Practical Windows system management, Active Directory users & computers, Kerberos, Installation & Basic Configuration, Group Policy Management, DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
+      Practical systems management, Microsoft Windows Server 2016 & 2022. Active Directory users & computers, Kerberos, Installation & Basic Configuration, Group Policy Management, DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
 
 #  - name:
 #    start:
