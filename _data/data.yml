@@ -155,25 +155,25 @@ oss:
     link: "#"
     tagline:
 
-publications:
-  title: Publications
-  intro: |
+#publications:
+#  title: Publications
+#  intro: |
 
-  papers:
-  - title: 
-    link: "#"
-    authors:
-    conference:
+#  papers:
+#  - title: 
+#    link: "#"
+#    authors:
+#    conference:
 
-  - title:
-    link:
-    authors:
-    conference:
-
-  - title:
-    link: "#"
-    authors:
-    conference:
+#  - title:
+#    link:
+#    authors:
+#    conference:
+#
+ # - title:
+#    link: "#"
+#    authors:
+#    conference:
 
 recommendations:
   title: Recommendations
