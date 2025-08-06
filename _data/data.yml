@@ -90,10 +90,10 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Teaching Assistant
+  - role: Digital Teaching Assistant
     time: March 2025 - Now
     company: Code Camp
-    details: St. Wilfrid's Burgess Hill
+    details: St. Wilfrid's Burgess Hill |
       Managed STEM workshops for children, troubleshooting hardware/software issues. Primary duty as technical assistant and also worked as class lead on occasions. DBS qualified and safeguarding trained.
   - role: Volunteer
     time: April 2024 – 2025
@@ -109,14 +109,15 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name:
+  - name:  Windows Management and Security
     start:
     end:
-    organization:
+    organization: University of Colerado/Coursera
     credentialid:
     credentialurl:
     credentialname: 
     details: |
+    Practical Windows system management, Active Directory users & computers, Kerberos, Installation & Basic Configuration, Group Policy Management, DNS Setup, DHCP, File & Storage Services, Networking, PowerShell, Security Compliance
 
   - name:
     start:
